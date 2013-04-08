@@ -62,7 +62,4 @@
 			<version>1.6.1</version>
 		</dependency>
 	</dependencies>
-  <modules>
-    <module>stun.demo</module>
-  </modules>
 </project>
